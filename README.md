@@ -19,7 +19,7 @@ This tabular dataset consists of listings of all the movies and tv shows availab
 
 
  
-## tools Used
+## Tools Used
 1. **[Azure Data Lake Storage Gen2 (ADLS)](https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction)** : to store data.
 2. **[Azure Data Factory](https://learn.microsoft.com/en-us/azure/data-factory/introduction)**: Used to automate the ingestion of dimension data from GitHub API into the bronze container.
 3. **[Azure Databricks](https://learn.microsoft.com/en-us/azure/databricks/introduction/)**: used for data processing using PySpark and Autoloader for real-time data ingestion.
