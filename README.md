@@ -14,7 +14,7 @@ This tabular dataset consists of listings of all the movies and tv shows availab
 | Netflix Titles      | CSV                     | 
 | Netflix Cast        | CSV                     | 
 | Netflix Directors   | CSV                     | 
-| Netflix Directors   | CSV                     | 
+| Netflix Category    | CSV                     | 
 | Netflix Countries   | CSV                     | 
 
 
