@@ -32,7 +32,7 @@ The data is organized into the following tables:
 
 ## Tools Used
 1. **[Azure Data Lake Storage Gen2 (ADLS)](https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction)** : to store data.
-2. **[Azure Data Factory](https://learn.microsoft.com/en-us/azure/data-factory/introduction)**: Used to automate the ingestion of dimension data from GitHub API into the bronze container.
+2. **[Azure Data Factory](https://learn.microsoft.com/en-us/azure/data-factory/introduction)**: used to automate the ingestion of dimension data from GitHub API into the bronze container.
 3. **[Azure Databricks](https://learn.microsoft.com/en-us/azure/databricks/introduction/)**: used for data processing using PySpark and Autoloader for real-time data ingestion.
 4. **[Delta Live Tables](https://learn.microsoft.com/en-us/azure/databricks/dlt/)**: Implements the star schema to serve transformed data in a structured format.
 
